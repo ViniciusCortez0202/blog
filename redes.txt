@@ -1,0 +1,17 @@
+Redes de computadores são o motivo de todo o mundo estar conectado em tempo real.
+Veja agora alguns conceitos básicos de redes de computadores que o farão entender melhor
+como é que se dá o funcionamento desses dispossitivos que permitem a comunicação a nível 
+global.
+
+Sistema finais ou Host: São computadores que recebem ou enviam informações,
+eles se caracterizam por estar na borda da rede;
+
+Comutadores: São aparelhos que permitem a conexão entre um host e outro ou 
+até mesmo entre outros comutadores;
+
+Pacotes: É a informação dividida em subunidades podendo ser toda a informação;
+
+Enlaces: São as conexões feitas entre os comutadores e os hosts;
+
+Rotas: É o caminho que os pacote irão escolher para chegar ao seu destino;
+

@@ -1,0 +1,15 @@
+No mundo do desenvolvimento há um mito, esse mito diz que se a pessoa não imprimir 
+um "Hello World" na tela quando se está aprendendo uma nova linguagem de programação, 
+ela não vai aprender essa linguagem.
+Bom, para não arriscar segue abaixo uma lista de exemplos de como imprimir um "Hello World"
+em C, C++, JAVA, C# e JAVASCRIPT:
+
+C: printf("Hello World");
+
+C++: cout << "Hello World";
+
+JAVA: Sytem.out.print("Hello World");
+
+C#: Console.Write("Hello World");
+
+JAVASCRIPT: alert("Hello World");

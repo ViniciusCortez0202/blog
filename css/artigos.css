@@ -1,0 +1,17 @@
+.artigo{
+    margin: 0px;
+    height: 50%;
+    position: relative;
+    top: 75px;
+}
+
+#assuntos a{
+    text-decoration: underline;
+    color: black;
+}
+
+#assuntos li{
+    margin: 0px 0px 7px 0px;
+    padding: 0px;
+    color: black;
+}

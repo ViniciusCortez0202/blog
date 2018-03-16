@@ -1,0 +1,44 @@
+.page{
+
+    background-image: url('../img/fundo.jpg');
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-size: cover;
+}
+
+
+.esclopo{
+    position: absolute;
+    background-color: white;
+    width: 50%;
+    min-height: 100%;
+    margin: 0px;
+    left: 25.7%;
+    border: 2px groove black;
+}
+
+#menu ul{
+    list-style: none;
+    text-transform: uppercase;
+    position: relative;
+    margin: 0px;
+    top: 0px;
+    left: 11.5%;
+}
+
+#menu li{
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    padding: 20px 40px;
+    background-color: white;
+    transition: 0.5s;
+    color: black;
+    text-decoration: underline; 
+}
+
+
+#menu li:hover{
+    background-color: 	#cccccc; 
+}
+

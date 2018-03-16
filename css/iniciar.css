@@ -1,0 +1,18 @@
+.art figure img{
+    margin: 0px 0px 20px 0px;
+    position: relative;
+    height: 250px;
+    width: 325px;
+    left: 23%;
+    top: 25px;
+}
+
+.art figure figcaption{
+    text-align: center;
+    font-size: 15pt;
+    margin-top: 5px;
+}
+
+.art figure figcaption a{
+    color: black;
+}

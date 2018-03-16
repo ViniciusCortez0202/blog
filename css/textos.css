@@ -1,0 +1,26 @@
+#assunto img{
+    position: relative;
+    width: 90%;
+    margin: 0px;
+    left: 5%;
+    top: 20px;
+}
+
+#assunto h2{
+    position: relative;
+    margin: 0px;
+    text-align: center;
+    top: 25px;
+    margin-bottom: 30px;
+}
+
+#assunto p{
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-indent: 25px;
+}
+
+#assunto li{  
+    margin-bottom: 10px;
+}

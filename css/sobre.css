@@ -1,0 +1,33 @@
+#perfil{
+
+    position: relative;
+    width: 100%;    
+    top: 100px;
+}
+
+#perfil img{
+    position: relative;
+    width: 30%;
+    height: 30%;
+    margin: 0px;
+    padding: 0px;
+    top: 50px;
+    left: 60px;
+    border: 1px double #3b2b2b;
+    box-shadow: 5px 5px 20px black;
+}
+
+#perfil h3{
+    margin: 0px;
+    position: relative;
+    bottom: 180px;
+    left: 44%;
+}
+
+#perfil p{
+    margin: 0px;
+    position: relative;
+    text-align: justify;
+    bottom: 150px;
+    left: 44%;
+}
