@@ -1,0 +1,3 @@
+O modelo TCP/IP deriva dos protocolos TCP (Transmission Control Protocol - Protocolo de Controle de Transmissão)
+e IP (Internet Protocol - Protocolo de Internet, ou ainda, protocolo de interconexão). Esse modelo resume o padrão
+OSI em apenas 4 camadas e assim diferenciando muito o nível de abstração de cada uma das camadas.

@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>
+        Atividade 1
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="css/textos.css" />
+    <script src="main.js"></script>
+</head>
+<body class="page">
+
+    <div class="esclopo">
+        <nav id="menu"> 
+            <ul>
+                <a href="index.html"><li>Início</li></a>
+                <a href="sobre.html"><li>Sobre</li></a>
+                <a href="artigos.html"><li>Artigos</li></a> 
+            </ul>
+        </nav>
+
+        <article id="assunto"> 
+
+            <h2> Atividade 1 </h2>
+
+            <p>
+                1- A arquitetura de camadas é boa pois ela define o papel de cada parte da pilha de protocolos 
+                tornando uma vantegem já que assim fica fácil  de modificar uma parte da pilha sem a necessidade de 
+                mexer em outras porem issa restrição de acesso de camadas por outras pode acabar causando a repetição de 
+                funções.
+            </p>
+
+            <p> 
+                2- A primeira camada seria a de a pessoa vai reconher o presente e vai enviar ou receber;
+                A segunda camada seria a dos a parte responsável por definir a localização da pessoa que vai receber ou enviar;
+                A terceira camada é responsável por definir o caminho que o pacote deve seguir para chegar ao seu destino;
+                A quarta camada se encarrga de definir os meios de como esse pacote vai chegar no seu destino;
+                E por fim a última parte seria enfim levar o pacote até o local que foi definido.
+            </p>    
+
+            <p>
+                3- As camadas tem funções bem definidas, ou seja, cada uma vai realizar uma tarefa de acordo com os protocolos
+                estabelecidos, além de que as camadas mais inferiores tem de suprir funções para as camadas mais acima delas.
+            </p>
+            
+            <p>
+                4- A camada de Aplicação tem que definir qual é o tipo de mensagem que está sendo enviado, qual é o tipo de arquivo
+                que está sendo requisitando, e ela faz isso por meio dos protocolos como HTTP, FTP, SMTP.
+                Já a camada de Transporte dependendo dos protocolos que foram implementados (UDP  e suas variações,
+                TCP e suas variações) vai fornecer o controle de fluxo, além de, indentificar qual é o destino do segmento.
+                Na camada de Redes só está contido um protocolo o IP. Essa camada vai ter como função principal definir a rota
+                do datagrama.
+                Na camada de Enlace pode variar de acordo com os seus protocolos, podendo ter controle de fluxo, por exemplo.
+                A função mais importante dessa camada seria permitir que os quadros sejam transmitidos pelos enlaces.
+                A Camada Física funciona bit bit, ou seja, é ela quem vai relamente tranmitir os pacotes pela rede.
+            </p>
+            
+            <p>
+                5- O conceito de encapsulamento surgi em rede quando ao passar de camada em camada pela pilha de protocolos
+                vão sendo adicionas cabeçalhos que enpdedem as camadas de verem os conteudos das camadas mais acimas dela com 
+                exeção do cabeçalho da que está acima.  
+            </p> 
+        </article>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,3 @@
+O modelo OSI (Open Systems Interconnection) criado no final da decada de 1970 pela ISO visando o objtivo de 
+as redes deveriam seguir um padrão para que podessem se comunicar. O modelo OSI é divido em 7 camadas que 
+é visto na imagem acima com mais algumas explicações:
